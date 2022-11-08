@@ -8,7 +8,7 @@ seAPI เป็น API ส่วนของ Backend ทำหน้าที่
 นาย วีรภัทร ปัญญาธีระ 6210451497\
 \
 \
-วิธีการรัน API\
+วิธีการใช้งาน API\
 รันไฟล์ src/main/java/se/project/API/ApiApplication.java
 \
 \
@@ -18,11 +18,11 @@ seAPI เป็น API ส่วนของ Backend ทำหน้าที่
 \
 \
 ส่วนของ POST\
-![image](https://user-images.githubusercontent.com/60596678/200633626-5fae7259-108c-437c-9d73-0bf8f55fa44f.png)
+![image](https://user-images.githubusercontent.com/60596678/200640984-9ed11faf-462e-47de-9c6e-ed79491cd646.png)
 \
 \
-ผลที่ได้จะได้ค่า Throughput = 10.5/sec\
-![image](https://user-images.githubusercontent.com/60596678/200633513-8d5c4cad-3f25-4692-9637-e09e0d12307f.png)
+ผลที่ได้จะได้ค่า Throughput = 100.8/sec\
+![image](https://user-images.githubusercontent.com/60596678/200662588-0a55dc2d-0002-429f-b31d-6f89928e5c1f.png)
 \
 \
 รูปแบบของข้อมูลที่ POST (JSON)\
@@ -34,5 +34,5 @@ seAPI เป็น API ส่วนของ Backend ทำหน้าที่
 ![image](https://user-images.githubusercontent.com/60596678/200640984-9ed11faf-462e-47de-9c6e-ed79491cd646.png)
 \
 \
-ผลที่ได้ Throughput = 1.1/sec\
-![image](https://user-images.githubusercontent.com/60596678/200640917-b34cde42-3567-4cbc-afa6-dea05a20fc26.png)
+ผลที่ได้ Throughput = 100.8/sec\
+![image](https://user-images.githubusercontent.com/60596678/200663231-db4a98c0-600e-43cb-87ce-721a7c039709.png)
